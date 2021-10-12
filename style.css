@@ -74,6 +74,7 @@
 
     .select {
         min-height: 20px;
+        min-width: 60px !important;
         font-size: 4vw !important;
     }
 }
@@ -249,7 +250,7 @@ div.wrapper-field :focus {
 }
 
 .select {
-    min-width: 140px;
+    min-width: 130px;
     width: 40%;
     align-items: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
